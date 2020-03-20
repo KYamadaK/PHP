@@ -1,10 +1,6 @@
 # PHP
 PHPのコードを掲載
 
-#実行結果の表示
-herokuにデプロイしています。
-https://yama-php-app.herokuapp.com/
-
 sample1 はじめのアレ  
 sample2　変数をつかう  
 sample3 無限ループ回避  
