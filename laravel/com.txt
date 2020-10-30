@@ -1,0 +1,4 @@
+pwd
+ls
+laravel new myblog
+php artisan serve
