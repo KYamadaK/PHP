@@ -1,8 +1,8 @@
 # フォルダの説明
 
-etc : 過去に作成したスクリプト、どこで使えるかはイマイチわからん
-learn_php : 練習用スクリプト
-paiza : オンライン学習プラットフォームのpaizaで習ったコードを載せてます。
+etc : 過去に作成したスクリプト、どこで使えるかはイマイチわからん  
+learn_php : 練習用スクリプト  
+paiza : オンライン学習プラットフォームのpaizaで習ったコードを載せてます。  
 
 # 注意点
 WindowsでPHPを使う場合は  
@@ -22,10 +22,10 @@ git config --global core.ignorecase false
 
 最初のLaravelのコマンド  
 
-$ pwd
-$ ls
-$ laravel new myblog
-$ php artisan serve
+$ pwd  
+$ ls  
+$ laravel new myblog  
+$ php artisan serve  
 
 
 
