@@ -20,6 +20,8 @@ git config --global core.ignorecase false
 
 # はじめの一歩
 
+最初のLaravelのコマンド  
+
 $ pwd
 $ ls
 $ laravel new myblog
